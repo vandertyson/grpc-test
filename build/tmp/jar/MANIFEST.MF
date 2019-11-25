@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: grpc-benchmarks
+Target-Compatibility: 1.7
+Implementation-Version: 1.25.0
+Built-By: user
+Source-Compatibility: 1.7
+Built-JDK: 1.8.0_222
+
